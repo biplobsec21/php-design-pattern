@@ -11,3 +11,4 @@ By doing so, it simplifies the work with the system, and allows us to have a sim
 Example1 :
 A real life example can be a code that shares the newest posts in our blog with several social networks. 
 Each social network has its own class, and a set of methods to share our posts.
+ [EXample solution ]( https://github.com/biplobsec21/php-design-pattern/tree/main/facade-design-pattern/Example-1 )
